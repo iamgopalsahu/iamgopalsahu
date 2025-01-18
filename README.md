@@ -7,7 +7,7 @@
 
 ## About Me 🔍
 
-- Working on Google Cloud (Data and AI&ML area).
+- Working on Google Cloud (Data Engineering and AI&ML area).
 - Writing my first book.
 - Learning new things everyday.
 
