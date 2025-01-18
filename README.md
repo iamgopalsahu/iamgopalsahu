@@ -8,11 +8,11 @@
 ## About Me 🔍
 
 - Working on Google Cloud (Data Engineering and AI&ML area).
-- Writing my first book.
+- Writing my first book [Modern Data Architecture on Google Cloud](https://www.packtpub.com/en-in/product/modern-data-architecture-on-google-cloud-9781801074254).
 - Learning new things everyday.
 
 ## What if you like my work? 🤩
 
-- Follow Me On LinkedIn. 
+- Follow Me On LinkedIn. [LinkedIn](https://www.linkedin.com/in/gopalsahu25/)
 - Subscribe to my [YouTube Channel]([https://youtube.com/@the.codestation?si=RxRop7UK24jHUKfl?sub_confirmation=1](https://www.youtube.com/@gopalsahu_official)).
 - You can Star ⭐ the repositories you like.
