@@ -14,5 +14,5 @@
 ## What if you like my work? 🤩
 
 - Follow Me On LinkedIn. [LinkedIn](https://www.linkedin.com/in/gopalsahu25/)
-- Subscribe to my [YouTube Channel]([https://youtube.com/@the.codestation?si=RxRop7UK24jHUKfl?sub_confirmation=1](https://www.youtube.com/@gopalsahu_official)).
+- Subscribe to my [YouTube Channel](https://www.youtube.com/@gopalsahu_official).
 - You can Star ⭐ the repositories you like.
